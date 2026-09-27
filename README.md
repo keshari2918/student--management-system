@@ -101,10 +101,10 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ```json
 {
-  "name": "Vedika Pawade",
+  "name": "Keshari Nandan",
   "age": 21,
   "course": "Computer Science",
-  "city": "Nagpur"
+  "city": "kolkata"
 }
 ```
 
@@ -115,7 +115,7 @@ spring.jpa.properties.hibernate.format_sql=true
 1. Clone the repository
 
 ```bash
-git clone https://github.com/vedikapawade/StudentManagementSystem.git
+git clone https://github.com/keshari2918/StudentManagementSystem.git
 ```
 
 2. Open the project in STS or Eclipse.
@@ -169,16 +169,3 @@ DELETE http://localhost:8080/students/1
 
 ---
 
-## 👩‍💻 Author
-
-**Vedika Pawade**
-
-- B.Tech Computer Science Engineering
-- Java Full Stack Developer
-- Spring Boot | MySQL | REST API
-
----
-
-## 📄 License
-
-This project is developed for learning purposes and academic use.
